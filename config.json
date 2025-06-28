@@ -1,0 +1,7 @@
+{
+  "TOKEN": "MTIxNjY0NDAyNzUxMjc4Mjg4MA.GeM3xp.D9TvldT0xNO1yxbU_Rf6_Q8GExe6prjmMblfRE",
+  "PREFIX": "$",
+  "OWNER_IDS": [1036319259430764605],
+  "TIP_MESSAGE_FORMAT": " <:904095822604550144:1388111141254860941> {sender} sent {receiver} {ltc_amount} LTC (≈ ${usd}).",
+  "BAL_MESSAGE_FORMAT": " <:904095822604550144:1388111141254860941> **{ltc} LTC** (≈ ${usd})"
+}
